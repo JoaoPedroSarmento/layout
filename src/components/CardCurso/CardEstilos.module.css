@@ -1,0 +1,32 @@
+.card {
+  width: 18rem;
+  margin: 10px;
+  border: 1px solid #343a40;
+  border-radius: 8px;
+  background-color: #343a40;
+}
+
+.cardTitle {
+  background-color: #007bff;
+  color: #fff;
+  padding: 8px;
+  height: 80px;
+  border-radius: 4px;
+}
+
+.cardText {
+  padding: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.button {
+  color: primary;
+  background-color: #007bff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}

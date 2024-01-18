@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "titulo": "Introdução à Programação em Python",
+    "descricao": "Aprenda os conceitos fundamentais da programação utilizando a linguagem Python.",
+    "categoria": "Programação",
+    "instrutor": "John Doe",
+    "duracao": "4 semanas",
+    "preco": 49.99
+  },
+  {
+    "id": 2,
+    "titulo": "Desenvolvimento Web com JavaScript e HTML5",
+    "descricao": "Construa sites interativos e dinâmicos utilizando as tecnologias web modernas.",
+    "categoria": "Desenvolvimento Web",
+    "instrutor": "Jane Smith",
+    "duracao": "6 semanas",
+    "preco": 79.99
+  },
+  {
+    "id": 3,
+    "titulo": "Gestão do Tempo e Produtividade",
+    "descricao": "Melhore suas habilidades de organização e aumente sua eficiência no trabalho e na vida pessoal.",
+    "categoria": "Desenvolvimento Pessoal",
+    "instrutor": "Alice Johnson",
+    "duracao": "3 semanas",
+    "preco": 29.99
+  },
+  {
+    "id": 4,
+    "titulo": "Machine Learning com TensorFlow",
+    "descricao": "Explore os fundamentos do aprendizado de máquina utilizando a biblioteca TensorFlow.",
+    "categoria": "Inteligência Artificial",
+    "instrutor": "Carlos Rodriguez",
+    "duracao": "8 semanas",
+    "preco": 99.99
+  },
+  {
+    "id": 5,
+    "titulo": "Programação em Java Avançado",
+    "descricao": "Aprofunde seus conhecimentos em programação Java, abordando tópicos avançados e práticos.",
+    "categoria": "Programação",
+    "instrutor": "Maria Silva",
+    "duracao": "5 semanas",
+    "preco": 69.99
+  },
+  {
+    "id": 6,
+    "titulo": "Desenvolvimento Mobile com React Native",
+    "descricao": "Crie aplicativos móveis multiplataforma usando React Native e aproveite o poder do desenvolvimento nativo.",
+    "categoria": "Desenvolvimento Mobile",
+    "instrutor": "Rafael Oliveira",
+    "duracao": "7 semanas",
+    "preco": 89.99
+  },
+  {
+    "id": 7,
+    "titulo": "Liderança Eficaz e Comunicação",
+    "descricao": "Desenvolva habilidades de liderança e aprimore sua comunicação para um ambiente de trabalho mais produtivo.",
+    "categoria": "Desenvolvimento Pessoal",
+    "instrutor": "Laura Santos",
+    "duracao": "4 semanas",
+    "preco": 39.99
+  },
+  {
+    "id": 8,
+    "titulo": "Deep Learning com PyTorch",
+    "descricao": "Explore técnicas avançadas de aprendizado profundo usando a biblioteca PyTorch.",
+    "categoria": "Inteligência Artificial",
+    "instrutor": "Eduardo Costa",
+    "duracao": "9 semanas",
+    "preco": 109.99
+  },
+  {
+    "id": 9,
+    "titulo": "Desenvolvimento Frontend com Vue.js",
+    "descricao": "Construa interfaces de usuário modernas e interativas usando o framework Vue.js.",
+    "categoria": "Desenvolvimento Web",
+    "instrutor": "Ana Pereira",
+    "duracao": "6 semanas",
+    "preco": 79.99
+  },
+  {
+    "id": 10,
+    "titulo": "Mindfulness e Redução de Estresse",
+    "descricao": "Aprenda práticas de mindfulness para reduzir o estresse e promover o bem-estar mental.",
+    "categoria": "Desenvolvimento Pessoal",
+    "instrutor": "Gabriel Lima",
+    "duracao": "3 semanas",
+    "preco": 34.99
+  },
+  {
+    "id": 11,
+    "titulo": "Desenvolvimento de Jogos com Unity",
+    "descricao": "Entre no mundo do desenvolvimento de jogos, criando jogos incríveis com o Unity.",
+    "categoria": "Desenvolvimento de Jogos",
+    "instrutor": "Fernanda Oliveira",
+    "duracao": "8 semanas",
+    "preco": 94.99
+  },
+  {
+    "id": 12,
+    "titulo": "Análise de Dados com Pandas e NumPy",
+    "descricao": "Explore técnicas de análise de dados usando as bibliotecas Pandas e NumPy em Python.",
+    "categoria": "Ciência de Dados",
+    "instrutor": "Rodrigo Santos",
+    "duracao": "7 semanas",
+    "preco": 84.99
+  },
+  {
+    "id": 13,
+    "titulo": "Automação de Tarefas com Ansible",
+    "descricao": "Simplifique a automação de tarefas de infraestrutura usando Ansible.",
+    "categoria": "DevOps",
+    "instrutor": "Lucas Oliveira",
+    "duracao": "5 semanas",
+    "preco": 59.99
+  },
+  {
+    "id": 14,
+    "titulo": "Desenvolvimento Ágil com Scrum",
+    "descricao": "Adote práticas ágeis de desenvolvimento de software com o framework Scrum.",
+    "categoria": "Metodologias Ágeis",
+    "instrutor": "Carolina Costa",
+    "duracao": "6 semanas",
+    "preco": 74.99
+  },
+  {
+    "id": 15,
+    "titulo": "Aprimoramento da Criatividade",
+    "descricao": "Desenvolva técnicas para estimular a criatividade e inovação em sua vida pessoal e profissional.",
+    "categoria": "Desenvolvimento Pessoal",
+    "instrutor": "Miguel Silva",
+    "duracao": "4 semanas",
+    "preco": 44.99
+  },
+  {
+    "id": 16,
+    "titulo": "Introdução ao Docker e Contêineres",
+    "descricao": "Explore a tecnologia de contêineres Docker para facilitar a implantação de aplicativos.",
+    "categoria": "DevOps",
+    "instrutor": "Isabel Mendes",
+    "duracao": "5 semanas",
+    "preco": 64.99
+  },
+  {
+    "id": 17,
+    "titulo": "Inteligência Artificial Ética",
+    "descricao": "Discuta as questões éticas relacionadas à inteligência artificial e suas aplicações.",
+    "categoria": "Inteligência Artificial",
+    "instrutor": "Ricardo Santos",
+    "duracao": "4 semanas",
+    "preco": 54.99
+  },
+  {
+    "id": 18,
+    "titulo": "Programação Funcional em Haskell",
+    "descricao": "Aprofunde-se na programação funcional usando a linguagem Haskell.",
+    "categoria": "Programação",
+    "instrutor": "Clara Lima",
+    "duracao": "6 semanas",
+    "preco": 69.99
+  },
+  {
+    "id": 19,
+    "titulo": "Desenvolvimento de Aplicações Serverless",
+    "descricao": "Construa aplicações escaláveis sem a necessidade de gerenciar servidores.",
+    "categoria": "Cloud Computing",
+    "instrutor": "Pedro Oliveira",
+    "duracao": "5 semanas",
+    "preco": 59.99
+  },
+  {
+    "id": 20,
+    "titulo": "Segurança em Aplicações Web",
+    "descricao": "Aprenda práticas de segurança para proteger suas aplicações web contra ameaças.",
+    "categoria": "Segurança da Informação",
+    "instrutor": "Sandra Costa",
+    "duracao": "7 semanas",
+    "preco": 79.99
+  }
+]
